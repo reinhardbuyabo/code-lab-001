@@ -1,6 +1,16 @@
-from generate_email_addresses import generate_email_addresses
+# def print_hi(name):
+    # Use a breakpoint in the code line below to debug your script.
+    # print(f'Hi, {name}')  # Press Ctrl+F8 to toggle the breakpoint.
+    # Press the green button in the gutter to run the script.
+# if __name__ == '__main__':
+#     print_hi('PyCharm')
+from functions import read_excel_file
 
-if __name__ == '__main__':
-    print(generate_email_addresses())
+file_path = "Test Files.xlsx"
 
-# See PyCharm help at https://www.jetbrains.com/help/pycharm/
+df = read_excel_file(file_path)
+
+if df is not None:
+    print(df.head())
+else:
+    print("Failed to read the Excel file.")
