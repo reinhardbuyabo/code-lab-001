@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 import re
 import pandas as pd
@@ -56,3 +57,11 @@ def save_output(df, csv_path, tsv_path):
     except Exception as e:
         logging.error(f"Error saving output files: {e}")
         raise
+=======
+import pandas as pd
+
+def read_excel_file(file_path):
+    df = pd.read_excel(file_path)
+    print(f"Successfully read {file_path}")
+    return df
+>>>>>>> 4bdd108 (Read files successfully)
