@@ -1,4 +1,3 @@
-
 import logging
 
 from functions import (
@@ -6,13 +5,19 @@ from functions import (
     generate_email,
     setup_logging,
     read_student_data,
-    save_output
+    save_output,
+    separating_gender,
+    special_students
 )
 from constraints import (
     LOG_FILE,
     INPUT_FILE,
     OUTPUT_CSV,
-    OUTPUT_TSV
+    OUTPUT_TSV,
+    MALES_CSV,
+    FEMALES_CSV,
+    MALES_TSV,
+    FEMALES_TSV
 )
 
 def main():
@@ -60,10 +65,33 @@ def main():
     """Add the emails to the DataFrame"""
     df['Email Address'] = emails
 
+    """Enumerating and Listing Students"""
+    male_students, female_students, num_of_male_stds, num_of_female_stds = separating_gender(df)
+    for male in male_students:
+        print(male)
+
+    for female in female_students:
+        print(female)
+
+    """"""
+    special_chars_students = special_students(df)
+    print(f"Special Kid: {special_chars_students}")
+
+    # Print/log the counts
+    print(f"Total Male Students: {num_of_male_stds}")
+    print(f"Total Female Students: {num_of_female_stds}")
+
     """Save the output"""
     save_output(df, OUTPUT_CSV, OUTPUT_TSV)
+    save_output(male_students, MALES_CSV, MALES_TSV)
+    save_output(female_students, FEMALES_CSV, FEMALES_TSV)
+
+    """Listing names of students with special characters in their names"""
+    for student_name in special_chars_students:
+        print(student_name)
 
     logger.info("Email generation process completed.")
+    logger.info(f"Number of Male Students: {num_of_male_stds}, Number of Female Students: {num_of_female_stds}, ")
 
 if __name__ == "__main__":
     main()

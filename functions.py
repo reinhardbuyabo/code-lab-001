@@ -5,7 +5,8 @@ from constraints import EMAIL_DOMAIN
 
 def sanitize_name(name):
     """
-    Remove special characters and convert to lowercase.
+    Remove special characters(non-word characters) or white spaces, and convert to lowercase.
+    Basically, it removes punctuation marks, spaces and tabs.
     """
     sanitized = re.sub(r'[^\w\s]', '', name)
     return sanitized.lower()
@@ -18,6 +19,7 @@ def generate_email(first_name, last_name, existing_emails):
     email = f"{base_email}@{EMAIL_DOMAIN}"
     counter = 1
     while email in existing_emails:
+        # if the generated email already exists, then we add a numeric suffix starting from 1, making each one unique
         email = f"{base_email}{counter}@{EMAIL_DOMAIN}"
         counter += 1
     return email
@@ -32,6 +34,8 @@ def setup_logging(log_file):
         format='%(asctime)s:%(levelname)s:%(message)s'
     )
 
+# Params: Input File
+# Returns: DataFrame
 def read_student_data(input_file):
     """
     Read student data from Excel file.
@@ -55,3 +59,19 @@ def save_output(df, csv_path, tsv_path):
     except Exception as e:
         logging.error(f"Error saving output files: {e}")
         raise
+
+def separating_gender(df):
+    """Separate names of male and female students"""
+    male_students = df[df['Gender'] == 'M']
+    female_students = df[df['Gender'] == 'F']
+
+    """Counting Male and Female Students"""
+    num_of_male_stds = male_students.shape[0]
+    num_of_female_stds = female_students.shape[0]
+    return male_students, female_students, num_of_male_stds, num_of_female_stds
+
+def special_students(df):
+    """Regex to find names with special characters (like apostrophes, hyphens, etc.)"""
+    df2 = df[df['Student Name'].str.contains(r"['\-]")]
+    return df2['Student Name'].tolist()
+
