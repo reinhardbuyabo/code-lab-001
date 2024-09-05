@@ -1,0 +1,6 @@
+"""Module containing all the constraints"""
+EMAIL_DOMAIN = "gmail.com"
+LOG_FILE = "logs/app.log"
+INPUT_FILE = "data/input/Test Files.xlsx"
+OUTPUT_CSV = "data/output/students_emails.csv"
+OUTPUT_TSV = "data/output/students_emails.tsv"
