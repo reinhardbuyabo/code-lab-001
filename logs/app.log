@@ -132,3 +132,399 @@
 2024-09-05 17:55:18,274:INFO:Generated email: wkariuki@gmail.com
 2024-09-05 17:55:18,304:INFO:Successfully saved output files: data/output/students_emails.csv, data/output/students_emails.tsv
 2024-09-05 17:55:18,304:INFO:Email generation process completed.
+2024-09-05 18:53:28,591:INFO:Starting email generation process.
+2024-09-05 18:53:29,146:INFO:Successfully read input file: data/input/Test Files.xlsx
+2024-09-05 18:53:29,149:INFO:Processing student: Abwoga, Adrian Jared Paul
+2024-09-05 18:53:29,149:INFO:Generated email: apaul@gmail.com
+2024-09-05 18:53:29,149:INFO:Processing student: Akong'o, Shanelle Hilda Anyango
+2024-09-05 18:53:29,149:INFO:Generated email: aanyango@gmail.com
+2024-09-05 18:53:29,150:INFO:Processing student: Ang'edu, Jude Ocomil
+2024-09-05 18:53:29,150:INFO:Generated email: aocomil@gmail.com
+2024-09-05 18:53:29,150:INFO:Processing student: Arunga, Kyla Neema
+2024-09-05 18:53:29,150:INFO:Generated email: aneema@gmail.com
+2024-09-05 18:53:29,150:INFO:Processing student: Atenya, Anthony Magunga Ikobwa
+2024-09-05 18:53:29,150:INFO:Generated email: aikobwa@gmail.com
+2024-09-05 18:53:29,150:INFO:Processing student: Budembeshe, Moses Kasuni
+2024-09-05 18:53:29,150:INFO:Generated email: bkasuni@gmail.com
+2024-09-05 18:53:29,150:INFO:Processing student: Dessalegn, Kalid Geleta
+2024-09-05 18:53:29,150:INFO:Generated email: dgeleta@gmail.com
+2024-09-05 18:53:29,150:INFO:Processing student: Epetet, Keith Lokwei
+2024-09-05 18:53:29,150:INFO:Generated email: elokwei@gmail.com
+2024-09-05 18:53:29,150:INFO:Processing student: Ger, David Otieno
+2024-09-05 18:53:29,150:INFO:Generated email: gotieno@gmail.com
+2024-09-05 18:53:29,151:INFO:Processing student: Githinji, Don Moses Thigiti
+2024-09-05 18:53:29,151:INFO:Generated email: gthigiti@gmail.com
+2024-09-05 18:53:29,151:INFO:Processing student: Haji, Ashir Ali
+2024-09-05 18:53:29,151:INFO:Generated email: hali@gmail.com
+2024-09-05 18:53:29,151:INFO:Processing student: Hassan, Fardowsa Abduhakim
+2024-09-05 18:53:29,151:INFO:Generated email: habduhakim@gmail.com
+2024-09-05 18:53:29,151:INFO:Processing student: Ismail, Ruweida Ali
+2024-09-05 18:53:29,151:INFO:Generated email: iali@gmail.com
+2024-09-05 18:53:29,151:INFO:Processing student: Johnson, Myles Adebayo
+2024-09-05 18:53:29,151:INFO:Generated email: jadebayo@gmail.com
+2024-09-05 18:53:29,151:INFO:Processing student: Kamau, Ann Mumbi
+2024-09-05 18:53:29,151:INFO:Generated email: kmumbi@gmail.com
+2024-09-05 18:53:29,151:INFO:Processing student: Kangethe, Sharon Wanjiru
+2024-09-05 18:53:29,151:INFO:Generated email: kwanjiru@gmail.com
+2024-09-05 18:53:29,152:INFO:Processing student: Karanu, Neema Muthoni
+2024-09-05 18:53:29,152:INFO:Generated email: kmuthoni@gmail.com
+2024-09-05 18:53:29,152:INFO:Processing student: Kiarie, Samuel Ndungu
+2024-09-05 18:53:29,152:INFO:Generated email: kndungu@gmail.com
+2024-09-05 18:53:29,152:INFO:Processing student: Kihara, Shannon Kendi
+2024-09-05 18:53:29,152:INFO:Generated email: kkendi@gmail.com
+2024-09-05 18:53:29,152:INFO:Processing student: Kimutai, Peter Kibet
+2024-09-05 18:53:29,152:INFO:Generated email: kkibet@gmail.com
+2024-09-05 18:53:29,152:INFO:Processing student: Kinyua, Victor Mfana
+2024-09-05 18:53:29,152:INFO:Generated email: kmfana@gmail.com
+2024-09-05 18:53:29,152:INFO:Processing student: Kirema, Ian Muteithia
+2024-09-05 18:53:29,152:INFO:Generated email: kmuteithia@gmail.com
+2024-09-05 18:53:29,152:INFO:Processing student: Kithae, Eric Muriithi
+2024-09-05 18:53:29,153:INFO:Generated email: kmuriithi@gmail.com
+2024-09-05 18:53:29,153:INFO:Processing student: Korir, Kevin Kimutai
+2024-09-05 18:53:29,153:INFO:Generated email: kkimutai@gmail.com
+2024-09-05 18:53:29,153:INFO:Processing student: Kwoba, Alex Wafula
+2024-09-05 18:53:29,153:INFO:Generated email: kwafula@gmail.com
+2024-09-05 18:53:29,153:INFO:Processing student: Maritim, Kelvin Kipngeno
+2024-09-05 18:53:29,153:INFO:Generated email: mkipngeno@gmail.com
+2024-09-05 18:53:29,153:INFO:Processing student: Masaka, Zivai Takadiwa David
+2024-09-05 18:53:29,153:INFO:Generated email: mdavid@gmail.com
+2024-09-05 18:53:29,153:INFO:Processing student: Mohamed, Ally Mahamud
+2024-09-05 18:53:29,153:INFO:Generated email: mmahamud@gmail.com
+2024-09-05 18:53:29,153:INFO:Processing student: Morekwa, David Nyamongo
+2024-09-05 18:53:29,153:INFO:Generated email: mnyamongo@gmail.com
+2024-09-05 18:53:29,154:INFO:Processing student: Mugambi, Kelvin Karani
+2024-09-05 18:53:29,154:INFO:Generated email: mkarani@gmail.com
+2024-09-05 18:53:29,154:INFO:Processing student: Muhia, Victor Mwaura
+2024-09-05 18:53:29,154:INFO:Generated email: mmwaura@gmail.com
+2024-09-05 18:53:29,154:INFO:Processing student: Muiyuro, Natasha Waithira
+2024-09-05 18:53:29,154:INFO:Generated email: mwaithira@gmail.com
+2024-09-05 18:53:29,154:INFO:Processing student: Muli, Grace Kanini
+2024-09-05 18:53:29,154:INFO:Generated email: mkanini@gmail.com
+2024-09-05 18:53:29,154:INFO:Processing student: Muroki, Mark Gichuhi
+2024-09-05 18:53:29,154:INFO:Generated email: mgichuhi@gmail.com
+2024-09-05 18:53:29,154:INFO:Processing student: Mutaki, Ruby Mbete
+2024-09-05 18:53:29,154:INFO:Generated email: mmbete@gmail.com
+2024-09-05 18:53:29,154:INFO:Processing student: Mutua, Franklin Karanja
+2024-09-05 18:53:29,154:INFO:Generated email: mkaranja@gmail.com
+2024-09-05 18:53:29,155:INFO:Processing student: Mutunga, Eric Kiamba
+2024-09-05 18:53:29,155:INFO:Generated email: mkiamba@gmail.com
+2024-09-05 18:53:29,155:INFO:Processing student: Mutunga, Patience Kamanthe
+2024-09-05 18:53:29,155:INFO:Generated email: mkamanthe@gmail.com
+2024-09-05 18:53:29,155:INFO:Processing student: Mwanda, George Josiah
+2024-09-05 18:53:29,155:INFO:Generated email: mjosiah@gmail.com
+2024-09-05 18:53:29,155:INFO:Processing student: Nabaala, Andrew Kasaine
+2024-09-05 18:53:29,155:INFO:Generated email: nkasaine@gmail.com
+2024-09-05 18:53:29,155:INFO:Processing student: Naibei, Monicah
+2024-09-05 18:53:29,155:INFO:Generated email: nmonicah@gmail.com
+2024-09-05 18:53:29,155:INFO:Processing student: Ndambiri, Yvonne Nyambura
+2024-09-05 18:53:29,155:INFO:Generated email: nnyambura@gmail.com
+2024-09-05 18:53:29,155:INFO:Processing student: Ndungu, Sarah Laura Wangari
+2024-09-05 18:53:29,155:INFO:Generated email: nwangari@gmail.com
+2024-09-05 18:53:29,155:INFO:Processing student: Ng'ang'a, Ian Mutuge
+2024-09-05 18:53:29,156:INFO:Generated email: nmutuge@gmail.com
+2024-09-05 18:53:29,156:INFO:Processing student: Ngeno, Alvin Kipkurui
+2024-09-05 18:53:29,156:INFO:Generated email: nkipkurui@gmail.com
+2024-09-05 18:53:29,156:INFO:Processing student: Ngigi, Michael Macharia
+2024-09-05 18:53:29,156:INFO:Generated email: nmacharia@gmail.com
+2024-09-05 18:53:29,156:INFO:Processing student: Njuguna, Elizabeth Njoki
+2024-09-05 18:53:29,156:INFO:Generated email: nnjoki@gmail.com
+2024-09-05 18:53:29,156:INFO:Processing student: Nugi, Andrew Kiarie
+2024-09-05 18:53:29,156:INFO:Generated email: nkiarie@gmail.com
+2024-09-05 18:53:29,156:INFO:Processing student: Nyambura, Erica
+2024-09-05 18:53:29,156:INFO:Generated email: nerica@gmail.com
+2024-09-05 18:53:29,156:INFO:Processing student: Nzioki, Maureen Mutete
+2024-09-05 18:53:29,156:INFO:Generated email: nmutete@gmail.com
+2024-09-05 18:53:29,157:INFO:Processing student: Ochanda, Steven Joel Jona
+2024-09-05 18:53:29,157:INFO:Generated email: ojona@gmail.com
+2024-09-05 18:53:29,157:INFO:Processing student: Ogutu, Brenda Mary Anyango
+2024-09-05 18:53:29,157:INFO:Generated email: oanyango@gmail.com
+2024-09-05 18:53:29,157:INFO:Processing student: Ombeni, Mwenzangu Faraja
+2024-09-05 18:53:29,157:INFO:Generated email: ofaraja@gmail.com
+2024-09-05 18:53:29,157:INFO:Processing student: Ombongi, Caleb Magare
+2024-09-05 18:53:29,157:INFO:Generated email: omagare@gmail.com
+2024-09-05 18:53:29,157:INFO:Processing student: Orony, Charis Ng'wono
+2024-09-05 18:53:29,157:INFO:Generated email: ongwono@gmail.com
+2024-09-05 18:53:29,157:INFO:Processing student: Owens, Nicole Owens
+2024-09-05 18:53:29,157:INFO:Generated email: oowens@gmail.com
+2024-09-05 18:53:29,157:INFO:Processing student: Patel, Jay Hirji
+2024-09-05 18:53:29,158:INFO:Generated email: phirji@gmail.com
+2024-09-05 18:53:29,158:INFO:Processing student: Tonui, Martin
+2024-09-05 18:53:29,158:INFO:Generated email: tmartin@gmail.com
+2024-09-05 18:53:29,158:INFO:Processing student: Tum, Bramwel Kipchirchir
+2024-09-05 18:53:29,158:INFO:Generated email: tkipchirchir@gmail.com
+2024-09-05 18:53:29,158:INFO:Processing student: Wachira, Joy Muthoni
+2024-09-05 18:53:29,158:INFO:Generated email: wmuthoni@gmail.com
+2024-09-05 18:53:29,158:INFO:Processing student: Wakaba, Rosemary Njeri
+2024-09-05 18:53:29,158:INFO:Generated email: wnjeri@gmail.com
+2024-09-05 18:53:29,158:INFO:Processing student: Wanjao, Louis Mbugua
+2024-09-05 18:53:29,158:INFO:Generated email: wmbugua@gmail.com
+2024-09-05 18:53:29,158:INFO:Processing student: Waweru, Monika Ng'endo
+2024-09-05 18:53:29,159:INFO:Generated email: wngendo@gmail.com
+2024-09-05 18:53:29,159:INFO:Processing student: Waweru, Trevor Kariuki
+2024-09-05 18:53:29,159:INFO:Generated email: wkariuki@gmail.com
+2024-09-05 18:53:29,166:INFO:Successfully saved output files: data/output/students_emails.csv, data/output/students_emails.tsv
+2024-09-05 18:53:29,166:INFO:Email generation process completed.
+2024-09-05 18:54:09,154:INFO:Starting email generation process.
+2024-09-05 18:54:09,601:INFO:Successfully read input file: data/input/Test Files.xlsx
+2024-09-05 18:54:09,602:INFO:Processing student: Abwoga, Adrian Jared Paul
+2024-09-05 18:54:09,603:INFO:Generated email: apaul@gmail.com
+2024-09-05 18:54:09,603:INFO:Processing student: Akong'o, Shanelle Hilda Anyango
+2024-09-05 18:54:09,603:INFO:Generated email: aanyango@gmail.com
+2024-09-05 18:54:09,603:INFO:Processing student: Ang'edu, Jude Ocomil
+2024-09-05 18:54:09,603:INFO:Generated email: aocomil@gmail.com
+2024-09-05 18:54:09,603:INFO:Processing student: Arunga, Kyla Neema
+2024-09-05 18:54:09,603:INFO:Generated email: aneema@gmail.com
+2024-09-05 18:54:09,604:INFO:Processing student: Atenya, Anthony Magunga Ikobwa
+2024-09-05 18:54:09,604:INFO:Generated email: aikobwa@gmail.com
+2024-09-05 18:54:09,604:INFO:Processing student: Budembeshe, Moses Kasuni
+2024-09-05 18:54:09,604:INFO:Generated email: bkasuni@gmail.com
+2024-09-05 18:54:09,604:INFO:Processing student: Dessalegn, Kalid Geleta
+2024-09-05 18:54:09,604:INFO:Generated email: dgeleta@gmail.com
+2024-09-05 18:54:09,604:INFO:Processing student: Epetet, Keith Lokwei
+2024-09-05 18:54:09,604:INFO:Generated email: elokwei@gmail.com
+2024-09-05 18:54:09,604:INFO:Processing student: Ger, David Otieno
+2024-09-05 18:54:09,604:INFO:Generated email: gotieno@gmail.com
+2024-09-05 18:54:09,604:INFO:Processing student: Githinji, Don Moses Thigiti
+2024-09-05 18:54:09,604:INFO:Generated email: gthigiti@gmail.com
+2024-09-05 18:54:09,605:INFO:Processing student: Haji, Ashir Ali
+2024-09-05 18:54:09,605:INFO:Generated email: hali@gmail.com
+2024-09-05 18:54:09,605:INFO:Processing student: Hassan, Fardowsa Abduhakim
+2024-09-05 18:54:09,605:INFO:Generated email: habduhakim@gmail.com
+2024-09-05 18:54:09,605:INFO:Processing student: Ismail, Ruweida Ali
+2024-09-05 18:54:09,605:INFO:Generated email: iali@gmail.com
+2024-09-05 18:54:09,605:INFO:Processing student: Johnson, Myles Adebayo
+2024-09-05 18:54:09,605:INFO:Generated email: jadebayo@gmail.com
+2024-09-05 18:54:09,605:INFO:Processing student: Kamau, Ann Mumbi
+2024-09-05 18:54:09,605:INFO:Generated email: kmumbi@gmail.com
+2024-09-05 18:54:09,605:INFO:Processing student: Kangethe, Sharon Wanjiru
+2024-09-05 18:54:09,605:INFO:Generated email: kwanjiru@gmail.com
+2024-09-05 18:54:09,606:INFO:Processing student: Karanu, Neema Muthoni
+2024-09-05 18:54:09,606:INFO:Generated email: kmuthoni@gmail.com
+2024-09-05 18:54:09,606:INFO:Processing student: Kiarie, Samuel Ndungu
+2024-09-05 18:54:09,606:INFO:Generated email: kndungu@gmail.com
+2024-09-05 18:54:09,606:INFO:Processing student: Kihara, Shannon Kendi
+2024-09-05 18:54:09,606:INFO:Generated email: kkendi@gmail.com
+2024-09-05 18:54:09,606:INFO:Processing student: Kimutai, Peter Kibet
+2024-09-05 18:54:09,606:INFO:Generated email: kkibet@gmail.com
+2024-09-05 18:54:09,606:INFO:Processing student: Kinyua, Victor Mfana
+2024-09-05 18:54:09,606:INFO:Generated email: kmfana@gmail.com
+2024-09-05 18:54:09,606:INFO:Processing student: Kirema, Ian Muteithia
+2024-09-05 18:54:09,606:INFO:Generated email: kmuteithia@gmail.com
+2024-09-05 18:54:09,606:INFO:Processing student: Kithae, Eric Muriithi
+2024-09-05 18:54:09,606:INFO:Generated email: kmuriithi@gmail.com
+2024-09-05 18:54:09,606:INFO:Processing student: Korir, Kevin Kimutai
+2024-09-05 18:54:09,607:INFO:Generated email: kkimutai@gmail.com
+2024-09-05 18:54:09,607:INFO:Processing student: Kwoba, Alex Wafula
+2024-09-05 18:54:09,607:INFO:Generated email: kwafula@gmail.com
+2024-09-05 18:54:09,607:INFO:Processing student: Maritim, Kelvin Kipngeno
+2024-09-05 18:54:09,607:INFO:Generated email: mkipngeno@gmail.com
+2024-09-05 18:54:09,607:INFO:Processing student: Masaka, Zivai Takadiwa David
+2024-09-05 18:54:09,607:INFO:Generated email: mdavid@gmail.com
+2024-09-05 18:54:09,607:INFO:Processing student: Mohamed, Ally Mahamud
+2024-09-05 18:54:09,607:INFO:Generated email: mmahamud@gmail.com
+2024-09-05 18:54:09,607:INFO:Processing student: Morekwa, David Nyamongo
+2024-09-05 18:54:09,607:INFO:Generated email: mnyamongo@gmail.com
+2024-09-05 18:54:09,607:INFO:Processing student: Mugambi, Kelvin Karani
+2024-09-05 18:54:09,607:INFO:Generated email: mkarani@gmail.com
+2024-09-05 18:54:09,608:INFO:Processing student: Muhia, Victor Mwaura
+2024-09-05 18:54:09,608:INFO:Generated email: mmwaura@gmail.com
+2024-09-05 18:54:09,608:INFO:Processing student: Muiyuro, Natasha Waithira
+2024-09-05 18:54:09,608:INFO:Generated email: mwaithira@gmail.com
+2024-09-05 18:54:09,608:INFO:Processing student: Muli, Grace Kanini
+2024-09-05 18:54:09,608:INFO:Generated email: mkanini@gmail.com
+2024-09-05 18:54:09,608:INFO:Processing student: Muroki, Mark Gichuhi
+2024-09-05 18:54:09,608:INFO:Generated email: mgichuhi@gmail.com
+2024-09-05 18:54:09,608:INFO:Processing student: Mutaki, Ruby Mbete
+2024-09-05 18:54:09,608:INFO:Generated email: mmbete@gmail.com
+2024-09-05 18:54:09,608:INFO:Processing student: Mutua, Franklin Karanja
+2024-09-05 18:54:09,608:INFO:Generated email: mkaranja@gmail.com
+2024-09-05 18:54:09,608:INFO:Processing student: Mutunga, Eric Kiamba
+2024-09-05 18:54:09,608:INFO:Generated email: mkiamba@gmail.com
+2024-09-05 18:54:09,609:INFO:Processing student: Mutunga, Patience Kamanthe
+2024-09-05 18:54:09,609:INFO:Generated email: mkamanthe@gmail.com
+2024-09-05 18:54:09,609:INFO:Processing student: Mwanda, George Josiah
+2024-09-05 18:54:09,609:INFO:Generated email: mjosiah@gmail.com
+2024-09-05 18:54:09,609:INFO:Processing student: Nabaala, Andrew Kasaine
+2024-09-05 18:54:09,609:INFO:Generated email: nkasaine@gmail.com
+2024-09-05 18:54:09,609:INFO:Processing student: Naibei, Monicah
+2024-09-05 18:54:09,609:INFO:Generated email: nmonicah@gmail.com
+2024-09-05 18:54:09,609:INFO:Processing student: Ndambiri, Yvonne Nyambura
+2024-09-05 18:54:09,609:INFO:Generated email: nnyambura@gmail.com
+2024-09-05 18:54:09,609:INFO:Processing student: Ndungu, Sarah Laura Wangari
+2024-09-05 18:54:09,609:INFO:Generated email: nwangari@gmail.com
+2024-09-05 18:54:09,609:INFO:Processing student: Ng'ang'a, Ian Mutuge
+2024-09-05 18:54:09,609:INFO:Generated email: nmutuge@gmail.com
+2024-09-05 18:54:09,610:INFO:Processing student: Ngeno, Alvin Kipkurui
+2024-09-05 18:54:09,610:INFO:Generated email: nkipkurui@gmail.com
+2024-09-05 18:54:09,610:INFO:Processing student: Ngigi, Michael Macharia
+2024-09-05 18:54:09,610:INFO:Generated email: nmacharia@gmail.com
+2024-09-05 18:54:09,610:INFO:Processing student: Njuguna, Elizabeth Njoki
+2024-09-05 18:54:09,610:INFO:Generated email: nnjoki@gmail.com
+2024-09-05 18:54:09,610:INFO:Processing student: Nugi, Andrew Kiarie
+2024-09-05 18:54:09,610:INFO:Generated email: nkiarie@gmail.com
+2024-09-05 18:54:09,610:INFO:Processing student: Nyambura, Erica
+2024-09-05 18:54:09,610:INFO:Generated email: nerica@gmail.com
+2024-09-05 18:54:09,610:INFO:Processing student: Nzioki, Maureen Mutete
+2024-09-05 18:54:09,610:INFO:Generated email: nmutete@gmail.com
+2024-09-05 18:54:09,610:INFO:Processing student: Ochanda, Steven Joel Jona
+2024-09-05 18:54:09,610:INFO:Generated email: ojona@gmail.com
+2024-09-05 18:54:09,611:INFO:Processing student: Ogutu, Brenda Mary Anyango
+2024-09-05 18:54:09,611:INFO:Generated email: oanyango@gmail.com
+2024-09-05 18:54:09,611:INFO:Processing student: Ombeni, Mwenzangu Faraja
+2024-09-05 18:54:09,611:INFO:Generated email: ofaraja@gmail.com
+2024-09-05 18:54:09,611:INFO:Processing student: Ombongi, Caleb Magare
+2024-09-05 18:54:09,611:INFO:Generated email: omagare@gmail.com
+2024-09-05 18:54:09,611:INFO:Processing student: Orony, Charis Ng'wono
+2024-09-05 18:54:09,611:INFO:Generated email: ongwono@gmail.com
+2024-09-05 18:54:09,611:INFO:Processing student: Owens, Nicole Owens
+2024-09-05 18:54:09,611:INFO:Generated email: oowens@gmail.com
+2024-09-05 18:54:09,611:INFO:Processing student: Patel, Jay Hirji
+2024-09-05 18:54:09,612:INFO:Generated email: phirji@gmail.com
+2024-09-05 18:54:09,612:INFO:Processing student: Tonui, Martin
+2024-09-05 18:54:09,612:INFO:Generated email: tmartin@gmail.com
+2024-09-05 18:54:09,612:INFO:Processing student: Tum, Bramwel Kipchirchir
+2024-09-05 18:54:09,612:INFO:Generated email: tkipchirchir@gmail.com
+2024-09-05 18:54:09,612:INFO:Processing student: Wachira, Joy Muthoni
+2024-09-05 18:54:09,612:INFO:Generated email: wmuthoni@gmail.com
+2024-09-05 18:54:09,612:INFO:Processing student: Wakaba, Rosemary Njeri
+2024-09-05 18:54:09,612:INFO:Generated email: wnjeri@gmail.com
+2024-09-05 18:54:09,613:INFO:Processing student: Wanjao, Louis Mbugua
+2024-09-05 18:54:09,613:INFO:Generated email: wmbugua@gmail.com
+2024-09-05 18:54:09,613:INFO:Processing student: Waweru, Monika Ng'endo
+2024-09-05 18:54:09,613:INFO:Generated email: wngendo@gmail.com
+2024-09-05 18:54:09,613:INFO:Processing student: Waweru, Trevor Kariuki
+2024-09-05 18:54:09,613:INFO:Generated email: wkariuki@gmail.com
+2024-09-05 18:54:09,619:INFO:Successfully saved output files: data/output/students_emails.csv, data/output/students_emails.tsv
+2024-09-05 18:54:09,619:INFO:Email generation process completed.
+2024-09-05 18:56:05,572:INFO:Starting email generation process.
+2024-09-05 18:56:06,027:INFO:Successfully read input file: data/input/Test Files.xlsx
+2024-09-05 18:56:06,028:INFO:Processing student: Abwoga, Adrian Jared Paul
+2024-09-05 18:56:06,028:INFO:Generated email: apaul@gmail.com
+2024-09-05 18:56:06,028:INFO:Processing student: Akong'o, Shanelle Hilda Anyango
+2024-09-05 18:56:06,028:INFO:Generated email: aanyango@gmail.com
+2024-09-05 18:56:06,028:INFO:Processing student: Ang'edu, Jude Ocomil
+2024-09-05 18:56:06,028:INFO:Generated email: aocomil@gmail.com
+2024-09-05 18:56:06,028:INFO:Processing student: Arunga, Kyla Neema
+2024-09-05 18:56:06,028:INFO:Generated email: aneema@gmail.com
+2024-09-05 18:56:06,028:INFO:Processing student: Atenya, Anthony Magunga Ikobwa
+2024-09-05 18:56:06,028:INFO:Generated email: aikobwa@gmail.com
+2024-09-05 18:56:06,029:INFO:Processing student: Budembeshe, Moses Kasuni
+2024-09-05 18:56:06,029:INFO:Generated email: bkasuni@gmail.com
+2024-09-05 18:56:06,029:INFO:Processing student: Dessalegn, Kalid Geleta
+2024-09-05 18:56:06,029:INFO:Generated email: dgeleta@gmail.com
+2024-09-05 18:56:06,029:INFO:Processing student: Epetet, Keith Lokwei
+2024-09-05 18:56:06,029:INFO:Generated email: elokwei@gmail.com
+2024-09-05 18:56:06,029:INFO:Processing student: Ger, David Otieno
+2024-09-05 18:56:06,029:INFO:Generated email: gotieno@gmail.com
+2024-09-05 18:56:06,030:INFO:Processing student: Githinji, Don Moses Thigiti
+2024-09-05 18:56:06,030:INFO:Generated email: gthigiti@gmail.com
+2024-09-05 18:56:06,030:INFO:Processing student: Haji, Ashir Ali
+2024-09-05 18:56:06,030:INFO:Generated email: hali@gmail.com
+2024-09-05 18:56:06,030:INFO:Processing student: Hassan, Fardowsa Abduhakim
+2024-09-05 18:56:06,030:INFO:Generated email: habduhakim@gmail.com
+2024-09-05 18:56:06,030:INFO:Processing student: Ismail, Ruweida Ali
+2024-09-05 18:56:06,030:INFO:Generated email: iali@gmail.com
+2024-09-05 18:56:06,030:INFO:Processing student: Johnson, Myles Adebayo
+2024-09-05 18:56:06,031:INFO:Generated email: jadebayo@gmail.com
+2024-09-05 18:56:06,031:INFO:Processing student: Kamau, Ann Mumbi
+2024-09-05 18:56:06,031:INFO:Generated email: kmumbi@gmail.com
+2024-09-05 18:56:06,031:INFO:Processing student: Kangethe, Sharon Wanjiru
+2024-09-05 18:56:06,031:INFO:Generated email: kwanjiru@gmail.com
+2024-09-05 18:56:06,031:INFO:Processing student: Karanu, Neema Muthoni
+2024-09-05 18:56:06,031:INFO:Generated email: kmuthoni@gmail.com
+2024-09-05 18:56:06,031:INFO:Processing student: Kiarie, Samuel Ndungu
+2024-09-05 18:56:06,031:INFO:Generated email: kndungu@gmail.com
+2024-09-05 18:56:06,031:INFO:Processing student: Kihara, Shannon Kendi
+2024-09-05 18:56:06,031:INFO:Generated email: kkendi@gmail.com
+2024-09-05 18:56:06,031:INFO:Processing student: Kimutai, Peter Kibet
+2024-09-05 18:56:06,031:INFO:Generated email: kkibet@gmail.com
+2024-09-05 18:56:06,032:INFO:Processing student: Kinyua, Victor Mfana
+2024-09-05 18:56:06,032:INFO:Generated email: kmfana@gmail.com
+2024-09-05 18:56:06,032:INFO:Processing student: Kirema, Ian Muteithia
+2024-09-05 18:56:06,032:INFO:Generated email: kmuteithia@gmail.com
+2024-09-05 18:56:06,032:INFO:Processing student: Kithae, Eric Muriithi
+2024-09-05 18:56:06,032:INFO:Generated email: kmuriithi@gmail.com
+2024-09-05 18:56:06,032:INFO:Processing student: Korir, Kevin Kimutai
+2024-09-05 18:56:06,032:INFO:Generated email: kkimutai@gmail.com
+2024-09-05 18:56:06,032:INFO:Processing student: Kwoba, Alex Wafula
+2024-09-05 18:56:06,032:INFO:Generated email: kwafula@gmail.com
+2024-09-05 18:56:06,032:INFO:Processing student: Maritim, Kelvin Kipngeno
+2024-09-05 18:56:06,032:INFO:Generated email: mkipngeno@gmail.com
+2024-09-05 18:56:06,033:INFO:Processing student: Masaka, Zivai Takadiwa David
+2024-09-05 18:56:06,033:INFO:Generated email: mdavid@gmail.com
+2024-09-05 18:56:06,033:INFO:Processing student: Mohamed, Ally Mahamud
+2024-09-05 18:56:06,033:INFO:Generated email: mmahamud@gmail.com
+2024-09-05 18:56:06,033:INFO:Processing student: Morekwa, David Nyamongo
+2024-09-05 18:56:06,033:INFO:Generated email: mnyamongo@gmail.com
+2024-09-05 18:56:06,033:INFO:Processing student: Mugambi, Kelvin Karani
+2024-09-05 18:56:06,033:INFO:Generated email: mkarani@gmail.com
+2024-09-05 18:56:06,033:INFO:Processing student: Muhia, Victor Mwaura
+2024-09-05 18:56:06,033:INFO:Generated email: mmwaura@gmail.com
+2024-09-05 18:56:06,033:INFO:Processing student: Muiyuro, Natasha Waithira
+2024-09-05 18:56:06,034:INFO:Generated email: mwaithira@gmail.com
+2024-09-05 18:56:06,034:INFO:Processing student: Muli, Grace Kanini
+2024-09-05 18:56:06,034:INFO:Generated email: mkanini@gmail.com
+2024-09-05 18:56:06,034:INFO:Processing student: Muroki, Mark Gichuhi
+2024-09-05 18:56:06,034:INFO:Generated email: mgichuhi@gmail.com
+2024-09-05 18:56:06,034:INFO:Processing student: Mutaki, Ruby Mbete
+2024-09-05 18:56:06,034:INFO:Generated email: mmbete@gmail.com
+2024-09-05 18:56:06,034:INFO:Processing student: Mutua, Franklin Karanja
+2024-09-05 18:56:06,034:INFO:Generated email: mkaranja@gmail.com
+2024-09-05 18:56:06,034:INFO:Processing student: Mutunga, Eric Kiamba
+2024-09-05 18:56:06,034:INFO:Generated email: mkiamba@gmail.com
+2024-09-05 18:56:06,034:INFO:Processing student: Mutunga, Patience Kamanthe
+2024-09-05 18:56:06,035:INFO:Generated email: mkamanthe@gmail.com
+2024-09-05 18:56:06,035:INFO:Processing student: Mwanda, George Josiah
+2024-09-05 18:56:06,035:INFO:Generated email: mjosiah@gmail.com
+2024-09-05 18:56:06,035:INFO:Processing student: Nabaala, Andrew Kasaine
+2024-09-05 18:56:06,035:INFO:Generated email: nkasaine@gmail.com
+2024-09-05 18:56:06,035:INFO:Processing student: Naibei, Monicah
+2024-09-05 18:56:06,035:INFO:Generated email: nmonicah@gmail.com
+2024-09-05 18:56:06,035:INFO:Processing student: Ndambiri, Yvonne Nyambura
+2024-09-05 18:56:06,035:INFO:Generated email: nnyambura@gmail.com
+2024-09-05 18:56:06,035:INFO:Processing student: Ndungu, Sarah Laura Wangari
+2024-09-05 18:56:06,035:INFO:Generated email: nwangari@gmail.com
+2024-09-05 18:56:06,035:INFO:Processing student: Ng'ang'a, Ian Mutuge
+2024-09-05 18:56:06,035:INFO:Generated email: nmutuge@gmail.com
+2024-09-05 18:56:06,035:INFO:Processing student: Ngeno, Alvin Kipkurui
+2024-09-05 18:56:06,035:INFO:Generated email: nkipkurui@gmail.com
+2024-09-05 18:56:06,036:INFO:Processing student: Ngigi, Michael Macharia
+2024-09-05 18:56:06,036:INFO:Generated email: nmacharia@gmail.com
+2024-09-05 18:56:06,036:INFO:Processing student: Njuguna, Elizabeth Njoki
+2024-09-05 18:56:06,036:INFO:Generated email: nnjoki@gmail.com
+2024-09-05 18:56:06,036:INFO:Processing student: Nugi, Andrew Kiarie
+2024-09-05 18:56:06,036:INFO:Generated email: nkiarie@gmail.com
+2024-09-05 18:56:06,036:INFO:Processing student: Nyambura, Erica
+2024-09-05 18:56:06,036:INFO:Generated email: nerica@gmail.com
+2024-09-05 18:56:06,036:INFO:Processing student: Nzioki, Maureen Mutete
+2024-09-05 18:56:06,036:INFO:Generated email: nmutete@gmail.com
+2024-09-05 18:56:06,036:INFO:Processing student: Ochanda, Steven Joel Jona
+2024-09-05 18:56:06,036:INFO:Generated email: ojona@gmail.com
+2024-09-05 18:56:06,037:INFO:Processing student: Ogutu, Brenda Mary Anyango
+2024-09-05 18:56:06,037:INFO:Generated email: oanyango@gmail.com
+2024-09-05 18:56:06,037:INFO:Processing student: Ombeni, Mwenzangu Faraja
+2024-09-05 18:56:06,037:INFO:Generated email: ofaraja@gmail.com
+2024-09-05 18:56:06,037:INFO:Processing student: Ombongi, Caleb Magare
+2024-09-05 18:56:06,037:INFO:Generated email: omagare@gmail.com
+2024-09-05 18:56:06,037:INFO:Processing student: Orony, Charis Ng'wono
+2024-09-05 18:56:06,037:INFO:Generated email: ongwono@gmail.com
+2024-09-05 18:56:06,037:INFO:Processing student: Owens, Nicole Owens
+2024-09-05 18:56:06,037:INFO:Generated email: oowens@gmail.com
+2024-09-05 18:56:06,037:INFO:Processing student: Patel, Jay Hirji
+2024-09-05 18:56:06,037:INFO:Generated email: phirji@gmail.com
+2024-09-05 18:56:06,037:INFO:Processing student: Tonui, Martin
+2024-09-05 18:56:06,037:INFO:Generated email: tmartin@gmail.com
+2024-09-05 18:56:06,037:INFO:Processing student: Tum, Bramwel Kipchirchir
+2024-09-05 18:56:06,038:INFO:Generated email: tkipchirchir@gmail.com
+2024-09-05 18:56:06,038:INFO:Processing student: Wachira, Joy Muthoni
+2024-09-05 18:56:06,038:INFO:Generated email: wmuthoni@gmail.com
+2024-09-05 18:56:06,038:INFO:Processing student: Wakaba, Rosemary Njeri
+2024-09-05 18:56:06,038:INFO:Generated email: wnjeri@gmail.com
+2024-09-05 18:56:06,038:INFO:Processing student: Wanjao, Louis Mbugua
+2024-09-05 18:56:06,038:INFO:Generated email: wmbugua@gmail.com
+2024-09-05 18:56:06,038:INFO:Processing student: Waweru, Monika Ng'endo
+2024-09-05 18:56:06,039:INFO:Generated email: wngendo@gmail.com
+2024-09-05 18:56:06,039:INFO:Processing student: Waweru, Trevor Kariuki
+2024-09-05 18:56:06,039:INFO:Generated email: wkariuki@gmail.com
+2024-09-05 18:56:06,046:INFO:Successfully saved output files: data/output/students_emails.csv, data/output/students_emails.tsv
+2024-09-05 18:56:06,046:INFO:Email generation process completed.
