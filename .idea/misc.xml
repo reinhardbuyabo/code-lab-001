@@ -4,8 +4,12 @@
     <option name="sdkName" value="Python 3.10 (computer_graphics)" />
   </component>
 <<<<<<< HEAD
+<<<<<<< HEAD
   <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.12" project-jdk-type="Python SDK" />
 =======
   <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.12 (code-lab-001)" project-jdk-type="Python SDK" />
 >>>>>>> 4bdd108 (Read files successfully)
+=======
+  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.10 (computer_graphics)" project-jdk-type="Python SDK" />
+>>>>>>> 3f2cfdb (Review)
 </project>
