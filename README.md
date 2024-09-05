@@ -11,3 +11,11 @@
     - [ ] Email addresses should be unique
     - [x] If the student has two names then you need to use what is available
     - [ ] Email addresses should not have special characters
+
+
+
+### Miscellaneous
+#### Pull Requests
+- `git remote add upstream git://github.com/some-url`
+- `git fetch upstream`
+- `git rebase upstream/master`
