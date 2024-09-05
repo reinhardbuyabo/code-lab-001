@@ -91,7 +91,7 @@ def main():
         print(student_name)
 
     logger.info("Email generation process completed.")
-    logger.info(f"Number of Male Students: {num_of_male_stds}, Number of Female Students: {num_of_female_stds}, ")
+    logger.info(f"Number of Male Students: {num_of_male_stds}, Number of Female Students: {num_of_female_stds}")
 
 if __name__ == "__main__":
     main()
