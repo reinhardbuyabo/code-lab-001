@@ -1,2 +1,2 @@
-output_files
+data/output/*
 logs/app.log
