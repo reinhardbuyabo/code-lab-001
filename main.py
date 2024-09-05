@@ -67,15 +67,10 @@ def main():
 
     """Enumerating and Listing Students"""
     male_students, female_students, num_of_male_stds, num_of_female_stds = separating_gender(df)
-    for male in male_students:
-        print(male)
-
-    for female in female_students:
-        print(female)
 
     """"""
     special_chars_students = special_students(df)
-    print(f"Special Kid: {special_chars_students}")
+    print(f"Special Kids: {special_chars_students}")
 
     # Print/log the counts
     print(f"Total Male Students: {num_of_male_stds}")
