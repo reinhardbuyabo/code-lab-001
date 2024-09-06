@@ -3,5 +3,17 @@
   <component name="Black">
     <option name="sdkName" value="Python 3.10 (computer_graphics)" />
   </component>
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.12" project-jdk-type="Python SDK" />
+=======
+  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.12 (code-lab-001)" project-jdk-type="Python SDK" />
+>>>>>>> 4bdd108 (Read files successfully)
+=======
   <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.10 (computer_graphics)" project-jdk-type="Python SDK" />
+>>>>>>> 3f2cfdb (Review)
+=======
+  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.12 (code-lab-001)" project-jdk-type="Python SDK" />
+>>>>>>> e338f2796d7cc3c03b9e3064b55fcf826fbe275a
 </project>
